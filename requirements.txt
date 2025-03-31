@@ -1,2 +1,12 @@
 google-generativeai
 streamlit
+python-dotenv
+
+
+
+
+
+
+
+
+-e .
